@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+}
+
+html {
+    background-color: rgb(211, 165, 109);
+}
+
+body {
+    background-color: rgb(211, 165, 109);
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-family: 'Delicious Handrawn', cursive;
+    font-size: 60px;
+    -webkit-text-stroke: 3px black;
+    padding-bottom: 15px;
+}
+
+main {
+        background-color: rgb(211, 165, 109);
+}
+
+img {
+    height: 300px;
+}
+
+.paragraph {
+    width: 300px;
+    text-align: center;
+    font-weight: bold;
+    background-color: rgb(228, 204, 66);
+    border-radius: 15px;
+    box-shadow: 5px 5px rgb(0, 0, 0, 0.7);
+    margin-bottom: 70px;
+    margin-top: 10px;
+}
